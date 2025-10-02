@@ -1,6 +1,8 @@
-# GuitarBOT — Documentación Técnica (Consolidada) -- (Auto generado) 
+# GuitarBOT — Documentación Técnica (Consolidada)
+Autores: **Andrés Calderón Quesada**, **Camila Zamora Vargas**  
+Facultad de Ingeniería Mecánica, Universidad de Costa Rica
 
-GuitarBOT es una base robótica con respaldo inclinado para sujetar y transportar una guitarra (~hasta 5 kg), con electrónica visible sobre acrílico y estructura en perfiles de aluminio. Incorpora tracción con motores paso a paso NEMA17 y señalización/UX con LCD y LEDs direccionables. Este README consolida la semidocumentación y define pendientes para llegar a un build reproducible.
+> Resumen ejecutivo: GuitarBOT es una base robótica con respaldo inclinado para sujetar y transportar una guitarra (~hasta 5 kg), con electrónica visible sobre acrílico y estructura en perfiles de aluminio. Incorpora tracción con motores paso a paso NEMA17 y señalización/UX con LCD y LEDs direccionables. Este README consolida la semidocumentación y define pendientes para llegar a un build reproducible.
 
 ---
 
@@ -24,7 +26,7 @@ GuitarBOT es una base robótica con respaldo inclinado para sujetar y transporta
 - **Alimentación:** **LiPo 3S 11.1 V 4400 mAh 70C** → **Buck 6–32 V → 5 V** (DROK)
 
 ## 3) Definición de pines (final acordado)
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Corresponde al UNO R4 (5 V). Si usas D13 para WS2812B, considera el LED onboard.
 
 | Subsistema    | Señal              | Arduino                   | Notas                                               |

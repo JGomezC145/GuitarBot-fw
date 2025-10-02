@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 # GuitarBOT — Documentación Técnica (Consolidada) -- (Auto generado)
 
 GuitarBOT es una base robótica con respaldo inclinado para sujetar y transportar una guitarra (~hasta 5 kg), con electrónica visible sobre acrílico y estructura en perfiles de aluminio. Incorpora tracción con motores paso a paso NEMA17 y señalización/UX con LCD y LEDs direccionables. Este README consolida la semidocumentación y define pendientes para llegar a un build reproducible.
+=======
+# GuitarBOT — Documentación Técnica (Consolidada)
+Autores: **Andrés Calderón Quesada**, **Camila Zamora Vargas**  
+Facultad de Ingeniería Mecánica, Universidad de Costa Rica
+
+> Resumen ejecutivo: GuitarBOT es una base robótica con respaldo inclinado para sujetar y transportar una guitarra (~hasta 5 kg), con electrónica visible sobre acrílico y estructura en perfiles de aluminio. Incorpora tracción con motores paso a paso NEMA17 y señalización/UX con LCD y LEDs direccionables. Este README consolida la semidocumentación y define pendientes para llegar a un build reproducible.
+>>>>>>> 59ee3796f638078f47281c7e8d0e1b84088730dc
 
 ---
 

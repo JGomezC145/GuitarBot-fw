@@ -97,6 +97,20 @@ void processCommand(Command cmd) {
             // __
             break;
 
+        case Command::VoiceMode:
+            // TODO: Implement VoiceMode behavior
+            Serial.println("Voice mode activated (not yet implemented)");
+            break;
+
+        case Command::AutoModeStart:
+            // TODO: Implement AutoModeStart behavior
+            Serial.println("Auto mode started (not yet implemented)");
+            break;
+
+        case Command::AutoModeStop:
+            // TODO: Implement AutoModeStop behavior
+            Serial.println("Auto mode stopped (not yet implemented)");
+            break;
         case Command::None:
         default:
             // ignore

@@ -57,7 +57,7 @@ static bool g_hasNewCommand = false;
  */
 static Status g_lastStatus = {};
 
-/*
+/**
  * @brief Nombre del dispositivo para publicidad BLE.
  */
 static const char *g_deviceName = "GuitarBOT";

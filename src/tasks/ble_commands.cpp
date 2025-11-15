@@ -19,7 +19,6 @@
 namespace cmd {
 
 // Velocidad base ejemplo para movimientos manuales
-static const int kManualSpeed = 200;  // ajustar en motores
 
 Command decodeChar(char c) {
     switch (c) {

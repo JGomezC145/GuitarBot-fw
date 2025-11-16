@@ -122,6 +122,8 @@ upload_speed  = 921600
 - **FSM** (máquina de estados) en `tasks/` con ticks a 100 Hz (configurable).
 - **Logging** por `Serial` protegido por `#ifdef DEBUG`.
 - **Style**: `clang-format` (`LLVM`), `clang-tidy` opcional (`modernize-*`).
+- **Documentación**: comentarios Doxygen en funciones públicas.
+- **namespaces** para organizar módulos (`hal`, `tasks`, `util`, `BLE`).
 
 ### 2.5 Scripts
 ```bash

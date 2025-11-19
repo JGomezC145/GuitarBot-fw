@@ -15,7 +15,7 @@
  * Aquí solo se trabaja con caracteres / strings ya recibidos.
  */
 
-namespace cmd {
+namespace ble_cmd {
 
 /**
  * @brief Conjunto de comandos que puede entender el robot.

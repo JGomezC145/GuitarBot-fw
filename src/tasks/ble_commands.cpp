@@ -16,7 +16,7 @@
     *  - 'O' → Detiene AutoMode
 */
 
-namespace cmd {
+namespace ble_cmd {
 
 // Velocidad base ejemplo para movimientos manuales
 
